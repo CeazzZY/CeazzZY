@@ -17,10 +17,12 @@
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
+![React Query](https://img.shieThe current commonly usedlds.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
 
 - 📫 How to reach me: 1093918683@qq.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeazzZY&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+## The current commonly used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=6)
