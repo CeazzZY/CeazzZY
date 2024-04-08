@@ -26,4 +26,4 @@
 
 ## The current commonly used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeazzZY&layout=compact)
